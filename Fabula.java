@@ -1,9 +1,6 @@
 package fabula;
-
 import java.util.Scanner;
-
 public class Fabula {
-	
 	
 	public static void main (String [] args)
 	{
